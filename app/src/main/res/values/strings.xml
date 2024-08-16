@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Enfermagem Fasipe</string>
+    <string name="hint_user">Código RA</string>
+    <string name="hint_pass">Senha</string>
+    <string name="txt_button_entrar">Entrar</string>
+    <string name="hint_search">Procurar Registro</string>
+    <string name="txt_welcome">Bem Vindo(a)</string>
+    <string name="txt_criarAnamnese">CRIAR</string>
+    <string name="txt_novoRegistroPDF">Adicionar Registro</string>
+    <string name="txt_listAnamnese">LISTAR</string>
+    <string name="txt_registroanamnese">REGISTRO DE ANAMNESE</string>
+    <string name="txt_nome">NOME</string>
+    <string name="txt_cpf">CPF</string>
+    <string name="remember_password">Lembrar senha</string>
+    <string name="txt_novoDocumento">Adicionar Documento</string>
+
+
+</resources>
